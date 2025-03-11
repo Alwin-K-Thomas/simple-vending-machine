@@ -1,5 +1,9 @@
 # Simple Vending Machine
 
+[![codecov](https://codecov.io/gh/Alwin-K-Thomas/simple-vending-machine/branch/main/graph/badge.svg)](https://codecov.io/gh/Alwin-K-Thomas/simple-vending-machine)
+
+![CI](https://github.com/Alwin-K-Thomas/simple-vending-machine/actions/workflows/ci.yml/badge.svg)
+
 This is a simple vending machine system implemented in Python. This system allows users to purchase products, manage inventory, track sales, and handle transactions with coin-based payments. 
 
 It follows a modular architecture with separate managers for inventory, sales, transactions, and reporting. 

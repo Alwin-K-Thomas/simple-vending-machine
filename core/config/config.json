@@ -1,0 +1,15 @@
+{
+    "total_inventory": 5,
+    "sell_ratio": [2, 3],
+    "all_coins": [1, 2, 5, 10],
+    "all_products": [
+        {
+            "name": "Plain Water",
+            "price": 30
+        },
+        {
+            "name": "Fizzy Water",
+            "price": 35
+        }
+    ]
+}

@@ -1,7 +1,7 @@
-pytest==8.3.5
-pytest-cov==6.0.0
-typing_extensions==4.12.2
-pylint==3.3.5
-isort==6.0.1
-coverage==7.6.12
-codecov==2.1.11
+pytest
+pytest-cov
+typing_extensions
+pylint
+isort
+coverage
+codecov
